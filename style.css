@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Merriweather:ital,wght@0,700;0,900;1,700;1,900&display=swap');
+
+#name1{
+    background: url(Banner\ Image.png) center center/cover;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+
+}
+ h5{
+    
+    color: #fff;
+    text-align: center;
+    font-family:Merriweather;
+    font-weight: 400; 
+    /line-height: normal;
+    font-style: normal; 
+    font-size: 32px;
+    padding-top: 50px;
+    /* margin: 177px ; */
+ }
+h2{
+color: #FFF;
+text-align: center;
+ font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; width: 632px; 
+margin: 233px 344px 177px;
+}
+
+.content2 div ul{
+    text-align: center;
+} 
+.content2 div ul li h1, p>#cl{
+    color: red;
+}
+#name3{
+    background: url(Vectorrr.png) center center/cover;
+    border-radius: 16px;
+    
+}
+.content3{
+    display: flex;
+    
+}
+.content3 div>#name h1 , p, button{
+    color: #FFF;
+
+}
+.content4{
+    background-color:rgba(224, 212, 217, 0.966); 
+    text-align: center;
+    border-radius: 16px;
+}
+#name5{
+    background-color: #f0aaaac4;
+    border-radius: 19px;
+    display: flex;
+    
+}
+#name .content5 div #nam1{
+margin-left: 0;
+}
+#name .content5 div #nam2{
+
+}
+#name .content5 div #nam3{
+
+}
+#name6{
+    background-color: #7c6666;
+    border-radius: 16px;
+}
+#name .content6 div #nab h6{
+    color: black;
+    text-align: center;
+}
+#name .content6 div #nab h1{
+    color: black;
+    text-align: center;
+}
+#name .content6 div #nab p{
+    color: black;
+    text-align: center;
+}
+#name7{
+    background-color: antiquewhite;
+    border-radius: 16px;
+}
+#name8{
+    background-color: bisque;
+    border-radius: 16px;
+}
+.content8{
+text-align: center;    
+}
