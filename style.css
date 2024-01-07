@@ -166,24 +166,142 @@ text-transform: capitalize;
 #name4 > h3 > #kel1{
     color: #F00;
 }
+#name4 > button{
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
 #name5{
-    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    background: #FFF;
     border-radius: 19px;
     display: flex;
+    padding-top: 120px;
+    width: 1320px;
+    height: 600px;
     
 }
-#name .content5 div #nam1{
-margin-left: 0;
+#name5 > #nam1 > h5{
+    color: #F00;
+    /* text-align: center; */
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
 }
-/* #name .content5 div #nam2{
+#name5 > #nam1 > h2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+padding-top: 16px;
+}
+#name5 > #nam1> p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+#name5> #nam1 , #name5> #nam2, #name5> #nam3{
+    margin: 25px;
+} 
+
+#name5 > #nam2{
+border-radius: 364.844px;
+background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+padding: 49.08px;
+border-radius: 463px;
+border: 15px solid #F00;
+}
+#name5 > #nam3 > h1{
+color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#name5 > #nam3> p{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+#name5 > #nam3> img{
+    width: 140px;
+height: 140px;
+flex-shrink: 0;
 
 }
-#name .content5 div #nam3{
-
-} */
 #name6{
-    background-color: #7c6666;
-    border-radius: 16px;
+    background: #FFF;
+    width: 1320px;
+height: 600px;
+padding-top: 120px;
+}
+
+#name6 > #nab1 > h1> #color{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+#name6 > #nab1 > h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+padding-top: 16px;
+}
+#name6 > #nab1 > h6{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+#name6 > #nab1 > p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+}
+#name6 > #nab1{
+    text-align: center;
 }
 #name .content6 div #nab h6{
     color: black;
