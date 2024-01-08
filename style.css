@@ -150,8 +150,13 @@
     line-height: normal;
     text-transform: uppercase;
 }
-
-
+#name3>#nam1>button:hover{
+    cursor:pointer;
+    color:rgb(7, 7, 7);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 4px;
+    
+}
 #name4 {
     background-image: url('Vector.png');
     text-align: center;
@@ -163,8 +168,6 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 120px;
-    
-
 }
 
 #name4>div>h3 {
@@ -190,7 +193,6 @@
     border-radius: 8px;
     background: #F00;
     color: #FFF;
-
     text-align: center;
     font-family: Inter;
     font-size: 20px;
@@ -198,6 +200,12 @@
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
+}
+#name4>div>button:hover{
+    cursor:pointer;
+    color:rgb(238, 229, 229);
+    background-color: rgba(207, 8, 41, 0.788);
+    border-radius: 4px;
 }
 
 #name5 {
@@ -545,16 +553,25 @@ justify-content: center;
 margin-left: auto;
 margin-right: auto;
 }
+
+#name8 > #naa2 > #naa3 > #butn:hover{
+    cursor:pointer;
+    color:rgb(238, 229, 229);
+    background-color: rgba(207, 8, 41, 0.788);
+    border-radius: 0px 50px 50px 0px;
+}
+
 #photo{
     justify-items: center;
     align-items: center;
-    margin-left: 45%;
+    margin-left: 43%;
     margin-right: 0px;
 }
 hr{
     background: rgba(255, 255, 255, 0.15);
     width: 1320px;
 height: 1px;
+
 }
 #lasttext{
     color: #FFF;
