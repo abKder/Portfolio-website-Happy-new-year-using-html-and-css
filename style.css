@@ -379,22 +379,18 @@
 
 }
 
-
 .overly {
     position: absolute;
     left: 80px;
     top: -190px;
     width: 40%;
     height: 350px;
-
 }
 
 #name7 {
-
     border-radius: 16px;
     width: 1320px;
     margin-top: 550px;
-
 }
 
 #red {
@@ -434,7 +430,14 @@
     justify-content: space-around;
     padding-top: 24px;
 }
-
+#name7 > #nan3 > .img:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+}
+#name7 > #nan2 > .img:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+}
 #name8 {
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
@@ -567,10 +570,14 @@ margin-right: auto;
     margin-left: 43%;
     margin-right: 0px;
 }
+#photo > .im:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+}
 hr{
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(29, 27, 27, 0.15);
     width: 1320px;
-height: 1px;
+height: 0px;
 
 }
 #lasttext{
